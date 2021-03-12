@@ -1,0 +1,6 @@
+a {
+  padding: 0, 15px !important;
+}
+a:hover {
+  text-decoration: none;
+}
